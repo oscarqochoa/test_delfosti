@@ -1,0 +1,2 @@
+1. docker exec -it laravelapi_php /bin/sh
+2. php artisan migrate --seed
